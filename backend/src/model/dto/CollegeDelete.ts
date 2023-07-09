@@ -1,0 +1,3 @@
+interface CollegeDelete {
+  id: number;
+}
